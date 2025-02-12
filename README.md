@@ -14,5 +14,4 @@ Key Features:
 
 The system is powered by the Arduino Mega, which is programmed to compare the time from the RTC against a predefined playback schedule. When the set time is reached, the relay is triggered, activating the speaker. This project highlights my skills in embedded systems, automation, and integrating various components to create reliable, time-sensitive systems.!
 
-[Uploading IMG_20240127_163952.jpg…]()
 
