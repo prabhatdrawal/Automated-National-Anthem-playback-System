@@ -10,6 +10,6 @@ Key Features:
 
 •Remote Monitoring: The I2C display shows the current date and time for easy monitoring.
 
-•Scalability & Reliability: Ideal for schools, government buildings, or public institutions that require consistent, scheduled anthem playback.
+•Scalability & Reliability: Ideal for schools, government buildings, or public institutions which may require consistent, scheduled anthem playback.
 
 The system is powered by the Arduino Mega, which is programmed to compare the time from the RTC against a predefined playback schedule. When the set time is that reached, the relay is triggered, activating the speaker. This project highlights my skills in embedded systems, automation, and integrating various components to create reliable, time-sensitive systems.
